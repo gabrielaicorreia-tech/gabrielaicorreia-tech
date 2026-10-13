@@ -1,54 +1,92 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Oi, mundo. Eu sou a Gabi — entre pessoas, dados e possibilidades. Banner indie tech rosa antigo e grafite com vinil e gato." />
-
-  <p><strong>Psicologia × Inteligência Artificial × Ciência de Dados</strong></p>
-  <p><em>Curiosidade, pessoas e tecnologia com propósito.</em></p>
+  <img src="assets/banner.svg" width="100%" alt="Oi, mundo. Eu sou a Gabi. Entre pessoas, dados e possibilidades. Banner Indie Tech Elegante em grafite, ameixa e rosa antigo, com livros, vinil, flores e gato ilustrado." />
+  <br />
+  <br />
+  <strong>Inteligência Artificial × Ciência de Dados × Desenvolvimento de Sistemas</strong>
+  <br />
+  <em>tecnologia com propósito. curiosidade em constante evolução.</em>
 </div>
+
+<br />
 
 ### ✦ sobre mim
 
-Sou **Gabriela Correia**, psicóloga e estudante de **Inteligência Artificial e Ciência de Dados no IFMT**. Gosto de conectar diferentes áreas para transformar ideias em soluções úteis, mais humanas e bem organizadas.
+Sou **Gabriela Correia**, estudante de **Inteligência Artificial e Ciência de Dados no IFMT** e psicóloga de formação. Minha trajetória conecta **programação, dados, automação e comportamento humano**.
 
-Meu foco está no encontro entre **pessoas, educação, dados e tecnologia** — especialmente na automação de processos, na organização de informações e no desenvolvimento de ferramentas para facilitar o trabalho das equipes.
+Gosto de compreender problemas, explorar possibilidades e construir ferramentas que tornem processos mais inteligentes, organizados e eficientes. Minha experiência na área da educação e em Psicologia contribui para uma visão interdisciplinar sobre o desenvolvimento de soluções digitais.
 
-Fora das telas: música indie, boas histórias e meus gatos. 🎧 🐈
+> pessoas × dados × impacto real
 
-### ✦ o que estou explorando
+### ✦ áreas de interesse
 
-| 🧠 Pessoas e comportamento | 📊 Dados e análise | ⚙️ Sistemas e automação |
-| :--- | :--- | :--- |
-| Psicologia organizacional, experiência e desenvolvimento humano. | Organização, exploração e interpretação de dados. | Ferramentas, fluxos e interfaces com foco em uso real. |
+<img src="assets/areas.svg" width="100%" alt="Seis áreas de interesse: Inteligência Artificial, Ciência de Dados, Desenvolvimento, Automação, Tecnologia e Educação, Pessoas e Experiência do Usuário." />
+
+Exploro especialmente a aplicação de IA e dados em **sistemas**, a melhoria de **fluxos de trabalho** e a criação de tecnologias mais acessíveis e úteis para as pessoas.
 
 ### ✦ tecnologias & ferramentas
 
-**Ferramentas que uso e estudo**, sem ranking de proficiência:
+<img src="assets/stack.svg" width="100%" alt="Tecnologias com as quais tenho contato profissional ou acadêmico: Python, JavaScript, HTML, CSS, Google Apps Script, Google Sheets, Git e GitHub." />
 
-`Python` · `JavaScript` · `HTML` · `CSS` · `Google Apps Script` · `Google Sheets` · `Git` · `GitHub`
+<sub>Ferramentas que utilizo, exploro e continuo aprendendo, em diferentes níveis de experiência.</sub>
 
 ### ✦ projetos & experimentos
 
-> Meu portfólio público está sendo organizado. Por enquanto, estes são **temas de interesse**, e não links para sistemas ou repositórios privados.
+*Estes cards representam **áreas de trabalho e estudo**, não repositórios públicos ou produtos disponíveis. Os projetos que puderem ser divulgados serão documentados aqui futuramente.*
 
-| ✧ Sistemas de processos | ✧ Dados para decisões | ✧ Automação com propósito |
-| :--- | :--- | :--- |
-| Experiências de organização e melhoria de fluxos de trabalho. | Estudos e análises para transformar dados em informação útil. | Experimentos com ferramentas e rotinas mais simples, seguras e humanas. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/cards/sistemas.svg" width="100%" alt="Card editorial Sistemas e aplicações." />
+      <br /><strong>01 / Sistemas & aplicações</strong><br />
+      Desenvolvimento e experimentação de aplicações para organizar informações, processos e fluxos operacionais.
+      <br /><sub>Desenvolvimento · Interfaces · Sistemas</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/cards/dados.svg" width="100%" alt="Card editorial Dados e análise." />
+      <br /><strong>02 / Dados & análise</strong><br />
+      Exploração e interpretação de dados para transformar informações em conhecimento útil e apoiar decisões.
+      <br /><sub>Python · Indicadores · Análise de Dados</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/cards/automacao.svg" width="100%" alt="Card editorial Automações." />
+      <br /><strong>03 / Automações</strong><br />
+      Ferramentas e rotinas que reduzem tarefas repetitivas, conectam recursos digitais e simplificam o trabalho.
+      <br /><sub>JavaScript · Apps Script · Automação</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/cards/pessoas.svg" width="100%" alt="Card editorial Pessoas e tecnologia." />
+      <br /><strong>04 / Pessoas & tecnologia</strong><br />
+      Estudos e soluções que aproximam desenvolvimento tecnológico, educação, usabilidade e comportamento humano.
+      <br /><sub>Experiência do Usuário · Psicologia · Tecnologia</sub>
+    </td>
+  </tr>
+</table>
 
-### ✦ em construção
+### ✦ currently exploring
 
-- [x] Identidade visual do perfil: **Indie Tech**
-- [x] Estrutura inicial do README
-- [ ] Selecionar projetos que podem ser apresentados publicamente
-- [ ] Adicionar demonstrações e documentação sem dados sensíveis
-- [ ] Incluir métricas reais, caso façam sentido
-- [ ] Definir links profissionais que desejo divulgar
+- **IA aplicada:** ferramentas e novas possibilidades de automação.
+- **Ciência de Dados:** programação, exploração e interpretação de informações.
+- **Desenvolvimento:** interfaces, arquitetura e boas práticas.
+- **Tecnologia para pessoas:** usabilidade, educação e uso responsável da IA.
 
-<details>
-  <summary>🎶 um pouco além do código</summary>
-  <br />
-  Gosto de pensar que um bom projeto também tem ritmo: algumas ideias começam como rascunhos, outras levam tempo para ganhar forma. A música, a criatividade e a curiosidade fazem parte desse processo.
-</details>
+*sempre aprendendo, sempre criando. ♡*
+
+### ♫ on repeat
+
+<img src="assets/spotify-placeholder.svg" width="100%" alt="Card musical decorativo inspirado em disco de vinil. Minha playlist pública do Spotify será adicionada futuramente." />
+
+<sub>Minha playlist pública do Spotify será adicionada aqui depois. O card é ilustrativo e não possui controles de reprodução.</sub>
+
+### ✦ contribuições & evolução
+
+A atividade e as contribuições **reais** podem ser acompanhadas nas seções nativas do meu perfil no GitHub. Sem contadores ou estatísticas fictícias por aqui.
 
 <br />
+
 <div align="center">
   <img src="assets/footer.svg" width="100%" alt="Mesmos caminhos, novas possibilidades. People, data, purpose." />
+  <br />
+  <sub>feito com curiosidade, criatividade e um pouco de indie rock. ♡</sub>
 </div>
