@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-label="Dados &amp; análise — explorar · interpretar · decidir">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15151f"/><stop offset=".55" stop-color="#2b2030"/><stop offset="1" stop-color="#151b24"/></linearGradient>
+<linearGradient id="rose" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f2c4d5"/><stop offset="1" stop-color="#c787a5"/></linearGradient>
+</defs><rect width="640" height="220" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="638" height="218" rx="17" fill="none" stroke="#825269" stroke-opacity=".88" stroke-width="2"/>
+<path d="M32 21L34 30L43 32L34 34L32 43L30 34L21 32L30 30Z" fill="#dc99b6"/><g transform="translate(605 220) rotate(-8)"><path d="M0 0Q40-62 88-90" stroke="#71816f" stroke-width="4" fill="none"/><ellipse cx="26" cy="-45" rx="14" ry="27" fill="#789077" transform="rotate(-23 26 -45)"/><ellipse cx="60" cy="-59" rx="14" ry="24" fill="#a1b199" transform="rotate(25 60 -59)"/><ellipse cx="81" cy="-91" rx="11" ry="22" fill="#6c816e" transform="rotate(25 81 -91)"/></g>
+<text x="32" y="63" fill="#d999b5" font-size="15" font-family="monospace" letter-spacing="2">02 / DATA</text>
+<text x="32" y="108" fill="url(#rose)" font-size="33" font-family="Georgia,serif" font-weight="700">Dados &amp; análise</text>
+<path d="M32 125H335" stroke="#89536d" stroke-width="2"/>
+<text x="32" y="151" fill="#d7becb" font-family="sans-serif" font-size="16">explorar · interpretar · decidir</text>
+<text x="32" y="188" fill="#ab9da9" font-family="monospace" font-size="12">GABI / EXPERIMENTS</text><g transform="translate(412 43)"><rect x="0" y="17" width="169" height="116" rx="9" fill="#1b2230" stroke="#b889a2"/><path d="M20 112H150" stroke="#8a8295"/><rect x="27" y="70" width="20" height="42" rx="2" fill="#ad789e"/><rect x="61" y="50" width="20" height="62" rx="2" fill="#d19ab1"/><rect x="95" y="83" width="20" height="29" rx="2" fill="#8ca18e"/><rect x="129" y="28" width="20" height="84" rx="2" fill="#e6b1c7"/><path d="M27 57L70 34L105 58L142 20" stroke="#f2d2df" stroke-width="3" fill="none"/><circle cx="70" cy="34" r="4" fill="#f2d2df"/></g></svg>
