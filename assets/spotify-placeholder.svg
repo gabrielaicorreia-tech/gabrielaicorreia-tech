@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-label="On repeat: songs to code, study and dream. Espaço reservado para minha playlist pública do Spotify; link em breve.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15151f"/><stop offset=".55" stop-color="#2b2030"/><stop offset="1" stop-color="#151b24"/></linearGradient>
+<linearGradient id="rose" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f2c4d5"/><stop offset="1" stop-color="#c787a5"/></linearGradient>
+</defs><rect width="1200" height="240" rx="18" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="238" rx="17" fill="none" stroke="#825269" stroke-opacity=".88" stroke-width="2"/>
+<g transform="translate(35 31)"><circle cx="92" cy="85" r="83" fill="#211b29" stroke="#cc8fa9" stroke-width="2"/><circle cx="92" cy="85" r="70" fill="#10121b" stroke="#81566e"/><circle cx="92" cy="85" r="59" fill="none" stroke="#845e72" opacity=".5"/><circle cx="92" cy="85" r="48" fill="none" stroke="#845e72" opacity=".4"/><circle cx="92" cy="85" r="35" fill="#d29bb4"/><circle cx="92" cy="85" r="21" fill="#f1c8d7"/><circle cx="92" cy="85" r="5" fill="#241a24"/></g>
+<path d="M248 42L250 52L260 54L250 56L248 66L246 56L236 54L246 52Z" fill="#dc99b6"/><text x="275" y="61" fill="#dfa4bd" font-family="monospace" font-size="16" letter-spacing="3">♫ ON REPEAT</text>
+<text x="276" y="118" fill="#f5d7e4" font-family="Georgia,serif" font-size="46" font-weight="bold">songs to code, study &amp; dream</text>
+<text x="279" y="155" fill="#d0bac8" font-family="sans-serif" font-size="21">minha playlist pública do Spotify · link em breve</text>
+<path d="M279 181h850" stroke="#69465e" stroke-width="5" stroke-linecap="round"/>
+<path d="M279 181h310" stroke="#e4a0bb" stroke-width="5" stroke-linecap="round"/>
+<g fill="#bc7d9f"><path d="M1121 43v18m-9-9h18"/><path d="M1100 122c-12-12-28 5-12 17l12 10 12-10c16-12 0-29-12-17Z"/></g></svg>
