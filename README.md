@@ -88,5 +88,5 @@ A atividade e as contribuições **reais** podem ser acompanhadas nas seções n
 <div align="center">
   <img src="assets/footer.svg" width="100%" alt="Mesmos caminhos, novas possibilidades. People, data, purpose." />
   <br />
-  <sub>feito com curiosidade, criatividade e um pouco de indie rock. ♡</sub>
+  <sub>feito com curiosidade, criatividade. ♡</sub>
 </div>
