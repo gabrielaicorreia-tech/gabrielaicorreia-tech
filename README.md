@@ -1,92 +1,98 @@
 <div align="center">
-  <img src="assets/banner.svg" width="100%" alt="Oi, mundo. Eu sou a Gabi. Entre pessoas, dados e possibilidades. Banner Indie Tech Elegante em grafite, ameixa e rosa antigo, com livros, vinil, flores e gato ilustrado." />
-  <br />
-  <br />
-  <strong>Inteligência Artificial × Ciência de Dados × Desenvolvimento de Sistemas</strong>
-  <br />
-  <em>tecnologia com propósito. curiosidade em constante evolução.</em>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dark/banner.svg" />
+    <img src="assets/light/banner.svg" width="100%" alt="Oi, eu sou a Gabi. Psicóloga que programa: pessoas, dados e impacto. Estudante de IA e Ciência de Dados no IFMT." />
+  </picture>
 </div>
 
 <br />
 
 ### ✦ sobre mim
 
-Sou **Gabriela Correia**, estudante de **Inteligência Artificial e Ciência de Dados no IFMT** e psicóloga de formação. Minha trajetória conecta **programação, dados, automação e comportamento humano**.
+Sou **Gabriela Correia**, psicóloga de formação e estudante de **Inteligência Artificial e Ciência de Dados no IFMT**. Trabalho no encontro entre **pessoas, dados e código**: entender como as pessoas trabalham e decidem, e construir ferramentas que deixem esse caminho mais simples.
 
-Gosto de compreender problemas, explorar possibilidades e construir ferramentas que tornem processos mais inteligentes, organizados e eficientes. Minha experiência na área da educação e em Psicologia contribui para uma visão interdisciplinar sobre o desenvolvimento de soluções digitais.
+Gosto de transformar processos confusos em fluxos claros, planilhas em sistemas e dados em decisões, sem perder de vista quem está do outro lado da tela.
 
 > pessoas × dados × impacto real
 
 ### ✦ áreas de interesse
 
-<img src="assets/areas.svg" width="100%" alt="Seis áreas de interesse: Inteligência Artificial, Ciência de Dados, Desenvolvimento, Automação, Tecnologia e Educação, Pessoas e Experiência do Usuário." />
-
-Exploro especialmente a aplicação de IA e dados em **sistemas**, a melhoria de **fluxos de trabalho** e a criação de tecnologias mais acessíveis e úteis para as pessoas.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/areas.svg" />
+  <img src="assets/light/areas.svg" width="100%" alt="Áreas de interesse: Inteligência Artificial, Ciência de Dados, Desenvolvimento, Automação, Tecnologia e Educação, Pessoas e UX." />
+</picture>
 
 ### ✦ tecnologias & ferramentas
 
-<img src="assets/stack.svg" width="100%" alt="Tecnologias com as quais tenho contato profissional ou acadêmico: Python, JavaScript, HTML, CSS, Google Apps Script, Google Sheets, Git e GitHub." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg" />
+  <img src="assets/light/stack.svg" width="100%" alt="Tecnologias com as quais tenho contato profissional ou acadêmico: Python, JavaScript, HTML, CSS, Google Apps Script, Google Sheets, Git e GitHub." />
+</picture>
 
-<sub>Ferramentas que utilizo, exploro e continuo aprendendo, em diferentes níveis de experiência.</sub>
+<sub>Ferramentas que uso, exploro e sigo aprendendo, em diferentes níveis de experiência.</sub>
 
-### ✦ projetos & experimentos
+### ✦ o que eu construo
 
-*Estes cards representam **áreas de trabalho e estudo**, não repositórios públicos ou produtos disponíveis. Os projetos que puderem ser divulgados serão documentados aqui futuramente.*
+*Estes cards mostram **áreas de trabalho e estudo**, não repositórios públicos. Os projetos que puderem ser divulgados aparecerão aqui.*
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/cards/sistemas.svg" width="100%" alt="Card editorial Sistemas e aplicações." />
-      <br /><strong>01 / Sistemas & aplicações</strong><br />
-      Desenvolvimento e experimentação de aplicações para organizar informações, processos e fluxos operacionais.
-      <br /><sub>Desenvolvimento · Interfaces · Sistemas</sub>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/dark/cards/sistemas.svg" />
+        <img src="assets/light/cards/sistemas.svg" width="100%" alt="Sistemas e aplicações: organizar informações e fluxos." />
+      </picture>
+      Aplicações para organizar informações, processos e fluxos operacionais.
     </td>
     <td width="50%" valign="top">
-      <img src="assets/cards/dados.svg" width="100%" alt="Card editorial Dados e análise." />
-      <br /><strong>02 / Dados & análise</strong><br />
-      Exploração e interpretação de dados para transformar informações em conhecimento útil e apoiar decisões.
-      <br /><sub>Python · Indicadores · Análise de Dados</sub>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/dark/cards/dados.svg" />
+        <img src="assets/light/cards/dados.svg" width="100%" alt="Dados e análise: transformar dados em decisões." />
+      </picture>
+      Explorar e interpretar dados para apoiar decisões.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/cards/automacao.svg" width="100%" alt="Card editorial Automações." />
-      <br /><strong>03 / Automações</strong><br />
-      Ferramentas e rotinas que reduzem tarefas repetitivas, conectam recursos digitais e simplificam o trabalho.
-      <br /><sub>JavaScript · Apps Script · Automação</sub>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/dark/cards/automacao.svg" />
+        <img src="assets/light/cards/automacao.svg" width="100%" alt="Automações: menos repetição, mais tempo." />
+      </picture>
+      Rotinas que reduzem tarefas repetitivas e conectam ferramentas.
     </td>
     <td width="50%" valign="top">
-      <img src="assets/cards/pessoas.svg" width="100%" alt="Card editorial Pessoas e tecnologia." />
-      <br /><strong>04 / Pessoas & tecnologia</strong><br />
-      Estudos e soluções que aproximam desenvolvimento tecnológico, educação, usabilidade e comportamento humano.
-      <br /><sub>Experiência do Usuário · Psicologia · Tecnologia</sub>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/dark/cards/pessoas.svg" />
+        <img src="assets/light/cards/pessoas.svg" width="100%" alt="Pessoas e tecnologia: comportamento humano e design." />
+      </picture>
+      Tecnologia pensada a partir de quem usa: educação, usabilidade e comportamento.
     </td>
   </tr>
 </table>
 
-### ✦ currently exploring
+### ✦ explorando agora
 
-- **IA aplicada:** ferramentas e novas possibilidades de automação.
-- **Ciência de Dados:** programação, exploração e interpretação de informações.
+- **IA aplicada:** novas ferramentas e possibilidades de automação.
+- **Ciência de Dados:** programação, exploração e interpretação de dados.
 - **Desenvolvimento:** interfaces, arquitetura e boas práticas.
 - **Tecnologia para pessoas:** usabilidade, educação e uso responsável da IA.
 
-*sempre aprendendo, sempre criando. ♡*
-
 ### ♫ on repeat
 
-<img src="assets/spotify-placeholder.svg" width="100%" alt="Card musical decorativo inspirado em disco de vinil. Minha playlist pública do Spotify será adicionada futuramente." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/musica.svg" />
+  <img src="assets/light/musica.svg" width="100%" alt="Card musical decorativo com disco de vinil. Minha playlist pública será adicionada futuramente." />
+</picture>
 
-<sub>Minha playlist pública do Spotify será adicionada aqui depois. O card é ilustrativo e não possui controles de reprodução.</sub>
-
-### ✦ contribuições & evolução
-
-A atividade e as contribuições **reais** podem ser acompanhadas nas seções nativas do meu perfil no GitHub. Sem contadores ou estatísticas fictícias por aqui.
+<sub>Card ilustrativo, sem player. A playlist pública entra aqui depois.</sub>
 
 <br />
 
 <div align="center">
-  <img src="assets/footer.svg" width="100%" alt="Mesmos caminhos, novas possibilidades. People, data, purpose." />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg" />
+    <img src="assets/light/footer.svg" width="100%" alt="Mesmos caminhos, novas possibilidades. People, data, purpose." />
+  </picture>
   <br />
-  <sub>feito com curiosidade, criatividade. ♡</sub>
+  <sub>feito com curiosidade e criatividade ♡</sub>
 </div>
