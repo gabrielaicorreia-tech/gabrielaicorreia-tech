@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="250" viewBox="0 0 600 250" role="img" aria-label="Sistemas &amp; aplicações: organizar informações e fluxos"><style>
+.ink{fill:#2B1B3D} .muted{fill:#5B4A6E} .soft{fill:#8C7AA0}
+.sans{font-family:'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif} .mono{font-family:SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace} .serif{font-family:Georgia, 'Times New Roman', serif}
+.twinkle{animation:tw 3.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.d1{animation-delay:.8s} .d2{animation-delay:1.6s} .d3{animation-delay:2.4s}
+.spin{animation:sp 9s linear infinite;transform-box:fill-box;transform-origin:center}
+.float{animation:fl 6s ease-in-out infinite}
+.blink{animation:bl 1.1s steps(1) infinite}
+.eq{animation:eq 1.4s ease-in-out infinite;transform-box:fill-box;transform-origin:bottom}
+@keyframes tw{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.35;transform:scale(.7)}}
+@keyframes sp{to{transform:rotate(360deg)}}
+@keyframes fl{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+@keyframes bl{50%{opacity:0}}
+@keyframes eq{0%,100%{transform:scaleY(.35)}50%{transform:scaleY(1)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style><defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FDE7F3"/><stop offset=".5" stop-color="#EBDDFF"/><stop offset="1" stop-color="#FFE3D3"/></linearGradient>
+<linearGradient id="hl" x1="0" x2="1"><stop offset="0" stop-color="#E2408F"/><stop offset=".55" stop-color="#8A5CF6"/><stop offset="1" stop-color="#F28B5B"/></linearGradient>
+<linearGradient id="chrome" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset=".45" stop-color="#E4D8FF"/><stop offset=".55" stop-color="#9C87D8"/><stop offset="1" stop-color="#F6E9FF"/></linearGradient>
+<radialGradient id="b1"><stop offset="0" stop-color="#FF8FCB" stop-opacity=".75"/><stop offset="1" stop-color="#FF8FCB" stop-opacity="0"/></radialGradient>
+<radialGradient id="b2"><stop offset="0" stop-color="#A88BFF" stop-opacity=".7"/><stop offset="1" stop-color="#A88BFF" stop-opacity="0"/></radialGradient>
+<radialGradient id="b3"><stop offset="0" stop-color="#FFC27A" stop-opacity=".55"/><stop offset="1" stop-color="#FFC27A" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8A5CF6" stroke-opacity="0"/></pattern>
+<filter id="glow"><feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#8A5CF6" flood-opacity=".18"/></filter>
+</defs><clipPath id="moldura"><rect width="600" height="250" rx="26"/></clipPath><rect width="600" height="250" rx="26" fill="url(#bg)"/><g clip-path="url(#moldura)"><circle cx="520" cy="60" r="200" fill="url(#b1)"/><rect width="600" height="250" fill="url(#grid)"/></g><rect x="1" y="1" width="598" height="248" rx="25" fill="none" stroke="#FFFFFF" stroke-opacity="1" stroke-width="1.5"/><text x="34" y="52" class="mono" font-size="14" letter-spacing="3" fill="#8A5CF6">01 / SISTEMAS</text><text x="32" y="112" class="sans ink" font-size="29" font-weight="800" letter-spacing="-.5">Sistemas &amp; aplicações</text><text x="34" y="146" class="sans muted" font-size="17">organizar informações e fluxos</text><rect x="34" y="168" width="64" height="4" rx="2" fill="url(#hl)"/><text x="34" y="214" class="mono soft" font-size="13">desenvolvimento · interfaces · web</text><rect x="396" y="66" width="170" height="112" rx="14" fill="#FFFFFF" fill-opacity=".55" stroke="#FFFFFF" stroke-opacity="1" stroke-width="1.5"/><rect x="396" y="66" width="170" height="24" rx="14" fill="#8A5CF6" fill-opacity=".25"/><circle cx="412" cy="78" r="4" fill="#E2408F"/><circle cx="426" cy="78" r="4" fill="#F28B5B"/><circle cx="440" cy="78" r="4" fill="#1FA37A"/><rect x="410" y="104" width="46" height="60" rx="8" fill="#E2408F" fill-opacity=".5"/><rect x="466" y="104" width="86" height="12" rx="6" fill="#8A5CF6" fill-opacity=".6"/><rect x="466" y="126" width="64" height="12" rx="6" fill="#1FA37A" fill-opacity=".6"/><rect x="466" y="148" width="76" height="12" rx="6" fill="#F28B5B" fill-opacity=".6"/><path class="twinkle d2" d="M566 214 Q567.44 220.56 574 222 Q567.44 223.44 566 230 Q564.56 223.44 558 222 Q564.56 220.56 566 214Z" fill="url(#chrome)" stroke="#FFFFFF"/></svg>

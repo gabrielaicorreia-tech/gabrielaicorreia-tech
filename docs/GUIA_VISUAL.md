@@ -1,42 +1,46 @@
-# Guia visual — C1 Indie Tech Elegante
+# Guia visual — Dreamy × Neon (v2)
 
-**Status:** implementação em revisão, somente na branch `design/indie-tech-v1`; PR #1 em rascunho.
+**Status:** em revisão na branch `claude/inspiring-wozniak-cv71gr`; publicação na `main` depende de aprovação.
 
 ## Conceito aprovado
 
-- Direção visual: **C1 — Indie Tech Elegante** (editorial, criativa, sofisticada e profissional).
-- Apresentação: **Inteligência Artificial × Ciência de Dados × Desenvolvimento de Sistemas**; Psicologia como diferencial interdisciplinar.
-- Paleta: grafite `#15151F`, ameixa `#291B2D`, rosa antigo `#C987A5`, rosa claro `#F4C8D9` e verde-sálvia `#9DAE99`.
-- Elementos gráficos: flores, disco de vinil, livros, notas e gato ilustrado.
-- Projetos: **categorias genéricas**, sem nomes, dados ou links de repositórios privados.
-- Spotify: **placeholder**, sem link nem player ativo; a playlist pública será escolhida futuramente.
+- Duas versões da mesma identidade, escolhidas pelo tema de quem visita (`<picture>` com `prefers-color-scheme`):
+  - **Clara — Dreamy gradient:** degradê rosa, lilás e pêssego, vidro, estrelas cromadas.
+  - **Escura — Neon night:** fundo noturno com grade, brilho rosa, lilás e menta.
+- Apresentação: **IA × Ciência de Dados × Desenvolvimento de Sistemas**, com a Psicologia como diferencial.
+- Personalidade: gatinho preto, disco de vinil, flores, janela de código `gabi.js`.
+- Animações leves (estrelas, vinil, cursor, equalizador), desligadas quando o visitante pede movimento reduzido.
 
-## Estrutura do README
+## Paletas
 
-1. `assets/banner.svg`: cabeçalho editorial.
-2. Texto introdutório e sobre mim (foco em tecnologia).
-3. `assets/areas.svg`: áreas de interesse.
-4. `assets/stack.svg`: ferramentas com diferentes graus de domínio e estudo.
-5. `assets/cards/*.svg`: quatro cards temáticos genéricos.
-6. Estudos atuais e interesses em tecnologia.
-7. `assets/spotify-placeholder.svg`: seção musical decorativa e reservada.
-8. Contribuições **reais** nas áreas nativas do GitHub (nenhuma métrica inventada).
-9. `assets/footer.svg`: assinatura visual.
+| Token | Clara | Escura |
+|---|---|---|
+| Texto | `#2B1B3D` | `#F5EFFF` |
+| Texto secundário | `#5B4A6E` | `#C9BEE6` |
+| Rosa | `#E2408F` | `#FF4FB8` |
+| Lilás | `#8A5CF6` | `#B57BFF` |
+| Menta | `#1FA37A` | `#4FF0D0` |
+| Pêssego | `#F28B5B` | `#FF9F6B` |
+
+## Imagens
+
+Todas são geradas por `assets/src/gerar_assets.py` (Python, sem dependências):
+
+```
+python assets/src/gerar_assets.py
+```
+
+Saída em `assets/light/` e `assets/dark/`: `banner`, `areas`, `stack`, `cards/*`, `musica` e `footer`. Para mudar textos ou cores, edite o script e gere de novo; não edite os SVGs à mão.
 
 ## Limites técnicos
 
-O README aceita Markdown, parte do HTML e imagens SVG. A composição da interface **externa** do GitHub (barra superior, barra lateral, menus e gráfico nativo) não é controlada pelo README, diferentemente da imagem conceitual C1.
-
-Os cards são SVG estáticos. Alguns efeitos visuais ou fontes podem variar entre a prévia conceitual e a renderização real no GitHub; revisar no navegador antes de publicar.
-
-Controles de música no mockup são decorativos; quando escolhida a playlist pública do Spotify, adicionar um **link clicável**, sem simular player funcional.
-
-O repositório de perfil precisará ser tornado público somente se, posteriormente, a proprietária decidir exibir o README publicamente. Isso não está autorizado nesta etapa.
+- O GitHub mostra SVG como imagem: sem fontes externas (usamos fontes do sistema) e sem links dentro da imagem.
+- Os textos de cada imagem estão também no `alt`, para leitores de tela.
+- Cards de projeto são **categorias genéricas**, sem nomes, dados ou links de repositórios privados.
+- O card de música é decorativo; quando houver playlist pública, adicionar um link comum abaixo dele.
 
 ## Segurança e publicação
 
-- Não divulgar código, anexos, informações internas de RH, dados institucionais ou detalhes de projetos privados.
-- Não inventar tecnologias dominadas, métricas, conquistas ou projetos públicos.
-- Preservar a branch `main` e demais repositórios.
-- Revisar imagens, textos, ortografia, acessibilidade e responsividade no GitHub.
-- Merge, visibilidade pública e alterações de perfil dependem de autorização específica.
+- Não divulgar código, dados institucionais, informações de candidatos ou detalhes de projetos privados.
+- Não inventar métricas, conquistas, tecnologias dominadas ou projetos públicos.
+- Para o README aparecer no perfil, o repositório precisa ser público; isso é decisão da proprietária.
