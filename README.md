@@ -88,6 +88,15 @@ Gosto de transformar processos confusos em fluxos claros, planilhas em sistemas 
 
 <br />
 
+<!-- Pacman -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielaicorreia-tech/gabrielaicorreia-tech/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielaicorreia-tech/gabrielaicorreia-tech/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gabrielaicorreia-tech/gabrielaicorreia-tech/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg" />
